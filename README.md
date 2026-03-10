@@ -30,12 +30,6 @@ I've worked with different technologies that I enjoy developing with but my hear
 
 <br>
 
-<p align="center">
-  <img src="https://user-images.githubusercontent.com/74038190/216655827-a410d92c-88f7-4639-bf0a-6f0a36134591.gif" width="50%" alt="Header GIF"/>
-</p>
-
-<br>
-
 ### 🛠️ The Toolkit
 A diverse set of tools to bridge logic and art. I also enjoy getting hands-on with systems and backend logic.
 
