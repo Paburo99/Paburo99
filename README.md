@@ -22,14 +22,6 @@ I've worked with different technologies that I enjoy developing with but my hear
 
 <br>
 
-### ✦ Currently Crafting
-
-- **A Subscription-based Mobile App:** A Pomodoro timer fused with an interactive 3D AI companion, built from a first-person perspective for deep focus.
-- **A Full-stack E-commerce Platform:** Built completely from scratch to challenge myself with modern architectures.
-- **My UE5 RPG:** Honing my skills in Unreal Engine and Blender to bring my vision to life.
-
-<br>
-
 ### 🛠️ The Toolkit
 A diverse set of tools to bridge logic and art. I also enjoy getting hands-on with systems and backend logic.
 
