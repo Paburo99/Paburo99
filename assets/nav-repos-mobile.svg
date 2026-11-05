@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="320" height="134" role="img" aria-label="Repositories"><title>Repositories</title>
+	<rect fill="#161426" width="320" height="134"/>
+	<path fill="#201B31" d="M11 7L309 7L309 13L315 13L315 121L309 121L309 127L11 127L11 121L5 121L5 13L11 13L11 7Z"/>
+	<path fill="none" stroke="#80718E" stroke-width="1.5" stroke-miterlimit="10" d="M11 7L309 7L309 13L315 13L315 121L309 121L309 127L11 127L11 121L5 121L5 13L11 13L11 7Z"/>
+	<rect fill="#DDA66B" x="8" y="10" width="4" height="4"/>
+	<rect fill="#DDA66B" x="308" y="120" width="4" height="4"/>
+	<rect fill="#DDA66B" x="144.5" y="23" width="2.5" height="2.5"/>
+	<rect fill="#DDA66B" x="147" y="23" width="2.5" height="2.5"/>
+	<rect fill="#DDA66B" x="162" y="23" width="2.5" height="2.5"/>
+	<rect fill="#DDA66B" x="164.5" y="23" width="2.5" height="2.5"/>
+	<rect fill="#DDA66B" x="142" y="25.5" width="2.5" height="2.5"/>
+	<rect fill="#DDA66B" x="149.5" y="25.5" width="2.5" height="2.5"/>
+	<rect fill="#DDA66B" x="159.5" y="25.5" width="2.5" height="2.5"/>
+	<rect fill="#DDA66B" x="167" y="25.5" width="2.5" height="2.5"/>
+	<rect fill="#DDA66B" x="142" y="28" width="2.5" height="2.5"/>
+	<rect fill="#DDA66B" x="149.5" y="28" width="2.5" height="2.5"/>
+	<rect fill="#DDA66B" x="159.5" y="28" width="2.5" height="2.5"/>
+	<rect fill="#DDA66B" x="167" y="28" width="2.5" height="2.5"/>
+	<rect fill="#DDA66B" x="144.5" y="30.5" width="2.5" height="2.5"/>
+	<rect fill="#DDA66B" x="147" y="30.5" width="2.5" height="2.5"/>
+	<rect fill="#DDA66B" x="162" y="30.5" width="2.5" height="2.5"/>
+	<rect fill="#DDA66B" x="164.5" y="30.5" width="2.5" height="2.5"/>
+	<rect fill="#DDA66B" x="147" y="33" width="2.5" height="2.5"/>
+	<rect fill="#DDA66B" x="164.5" y="33" width="2.5" height="2.5"/>
+	<rect fill="#DDA66B" x="147" y="35.5" width="2.5" height="2.5"/>
+	<rect fill="#DDA66B" x="154.5" y="35.5" width="2.5" height="2.5"/>
+	<rect fill="#DDA66B" x="157" y="35.5" width="2.5" height="2.5"/>
+	<rect fill="#DDA66B" x="159.5" y="35.5" width="2.5" height="2.5"/>
+	<rect fill="#DDA66B" x="162" y="35.5" width="2.5" height="2.5"/>
+	<rect fill="#DDA66B" x="147" y="38" width="2.5" height="2.5"/>
+	<rect fill="#DDA66B" x="149.5" y="38" width="2.5" height="2.5"/>
+	<rect fill="#DDA66B" x="152" y="38" width="2.5" height="2.5"/>
+	<rect fill="#DDA66B" x="147" y="40.5" width="2.5" height="2.5"/>
+	<rect fill="#DDA66B" x="144.5" y="43" width="2.5" height="2.5"/>
+	<rect fill="#DDA66B" x="147" y="43" width="2.5" height="2.5"/>
+	<rect fill="#DDA66B" x="142" y="45.5" width="2.5" height="2.5"/>
+	<rect fill="#DDA66B" x="149.5" y="45.5" width="2.5" height="2.5"/>
+	<rect fill="#DDA66B" x="144.5" y="48" width="2.5" height="2.5"/>
+	<rect fill="#DDA66B" x="147" y="48" width="2.5" height="2.5"/>
+	<path fill="#EBDAC7" d="M128.125 90.229996L128.125 85.979996L119.625 85.979996L119.625 81.729996L128.125 81.729996L128.125 85.979996L132.375 85.979996L132.375 90.229996L128.125 90.229996ZM119.625 102.98L119.625 98.729996L115.375 98.729996L115.375 85.979996L119.625 85.979996L119.625 98.729996L128.125 98.729996L128.125 102.98L119.625 102.98ZM128.125 98.729996L128.125 94.479996L132.375 94.479996L132.375 98.729996L128.125 98.729996ZM145.12494 102.98L145.12494 98.729996L140.87494 98.729996L140.87494 85.979996L145.12494 85.979996L145.12494 81.729996L153.62494 81.729996L153.62494 85.979996L157.87494 85.979996L157.87494 98.729996L153.62494 98.729996L153.62494 102.98L145.12494 102.98ZM145.12494 98.56398L153.62494 98.56398L153.62494 86.146011L145.12494 86.146011L145.12494 98.56398ZM166.37488 102.98L166.37488 81.729996L179.12488 81.729996L179.12488 85.979996L183.37488 85.979996L183.37488 98.729996L179.12488 98.729996L179.12488 102.98L166.37488 102.98ZM170.62488 98.729996L178.95886 98.729996L178.95886 85.979996L170.62488 85.979996L170.62488 98.729996ZM191.87482 102.98L191.87482 81.729996L204.62482 81.729996L204.62482 85.979996L196.12482 85.979996L196.12482 90.229996L204.62482 90.229996L204.62482 94.479996L196.12482 94.479996L196.12482 98.729996L204.62482 98.729996L204.62482 102.98L191.87482 102.98Z"/>
+</svg>
